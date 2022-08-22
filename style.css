@@ -4,3 +4,65 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #ffeedf;
+    font-family: 'Space Grotesk', sans-serif;
+
+}
+
+#HeaderDiv {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom: 1px solid #145434;
+    padding: 0% 1%;
+    color:#145434;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.material-symbols-outlined {
+position: relative;
+top: 3px;
+}
+
+
+#ContainerDiv {
+    padding-top: 50px;
+    display: flex;
+}
+
+
+
+#BeerCard {
+    background-color: #145434;
+}
+
+
+
+
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48
+}
+
+/* 
+@font-face {
+    font-family: 'Space Grotesk', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+} */

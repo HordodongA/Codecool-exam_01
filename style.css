@@ -101,7 +101,7 @@ body {
     border-radius: 50%;
     color: #145434;
     font-size: 1.4em;
-    font-weight: 300;
+    font-weight: 400;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -118,7 +118,7 @@ body {
     margin-top: -1em;
     padding: 0.8em;
     font-size: 0.8em;
-    font-weight: 600;
+    font-weight: 700;
     display: flex;
     justify-content: flex-end;
     align-items: center;
